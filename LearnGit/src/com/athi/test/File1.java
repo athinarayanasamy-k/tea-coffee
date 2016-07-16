@@ -7,7 +7,7 @@ public class File1 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Test GIT");
+		System.out.println(" Merge learn");
 		System.out.println("sec user");
 		System.out.println("First user new");
 		System.out.println("First user sec check");
