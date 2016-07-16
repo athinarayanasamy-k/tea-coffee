@@ -8,6 +8,7 @@ public class File1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println(" To retest merge"); 
+		System.out.println("T1 sprint 2 commit");
 		//Adding new block
 		if(true == true ){
 			System.out.println("Print this");
