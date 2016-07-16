@@ -7,7 +7,7 @@ public class File1 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(" Merge learn");
+		/*test conflict */ System.out.println(" Merge learn"); //make conflict
 		System.out.println("sec user");
 		System.out.println("First user new");
 		System.out.println("First user sec check");
