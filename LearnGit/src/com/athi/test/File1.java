@@ -7,14 +7,14 @@ public class File1 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		/*test conflict */ System.out.println(" Merge learn"); //make conflict
+		System.out.println(" To retest merge"); 
 		//Adding new block
 		if(true == true ){
 			System.out.println("Print this");
 			System.out.println("see merge");
 		}
 		
-		callNewMth();
+		callNewMonth();
 		if(true == true ){
 			System.out.println("New block to see merge issue");
 		}
