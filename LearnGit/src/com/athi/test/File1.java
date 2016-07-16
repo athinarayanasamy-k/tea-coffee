@@ -11,7 +11,14 @@ public class File1 {
 		//Adding new block
 		if(true == true ){
 			System.out.println("Print this");
+			System.out.println("see merge");
 		}
+		
+		callNewMth();
+		if(true == true ){
+			System.out.println("New block to see merge issue");
+		}
+		
 		
 		if(true == true ){
 			System.out.println("Print this");
